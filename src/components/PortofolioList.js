@@ -29,7 +29,7 @@ function PortfolioList() {
                 </div>
                 <img
                   className="img-fluid"
-                  src="assets/img/portfolio/cabin.png"
+                  src="assets/img/portfolio/mo.jpeg"
                   alt=""
                 />
               </div>
@@ -47,7 +47,7 @@ function PortfolioList() {
                 </div>
                 <img
                   className="img-fluid"
-                  src="assets/img/portfolio/cake.png"
+                  src="assets/img/portfolio/bos.jpeg"
                   alt=""
                 />
               </div>
@@ -65,7 +65,7 @@ function PortfolioList() {
                 </div>
                 <img
                   className="img-fluid"
-                  src="assets/img/portfolio/circus.png"
+                  src="assets/img/portfolio/Kuu.jpeg"
                   alt=""
                 />
               </div>
@@ -102,7 +102,7 @@ function PortfolioList() {
                       className="portfolio-modal-title text-secondary text-uppercase mb-0"
                       id="portfolioModal1Label"
                     >
-                      Log Cabin
+                      Adat Jawa
                     </h2>
                     <div className="divider-custom">
                       <div className="divider-custom-line"></div>
@@ -113,15 +113,14 @@ function PortfolioList() {
                     </div>
                     <img
                       className="img-fluid rounded mb-5"
-                      src="assets/img/portfolio/cabin.png"
+                      src="assets/img/portfolio/mo.jpeg"
                       alt=""
                     />
                     <p className="mb-5">
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                      Mollitia neque assumenda ipsam nihil, molestias magnam,
-                      recusandae quos quis inventore quisquam velit asperiores,
-                      vitae? Reprehenderit soluta, eos quod consequuntur itaque.
-                      Nam.
+                      Ini adalah saya ketika sedang ada kegiatan nikahan kaka.
+                      Baju yang saya gunakan merupakan baju adat jawa sebagai
+                      among tamu. Menikah dengan adat jawa memiliki berbagai
+                      macam tata cara.
                     </p>
                     <a href="/" className="btn btn-primary">
                       Read more
@@ -163,7 +162,7 @@ function PortfolioList() {
                       className="portfolio-modal-title text-secondary text-uppercase mb-0"
                       id="portfolioModal2Label"
                     >
-                      Tasty Cake
+                      Rama dan Army
                     </h2>
                     <div className="divider-custom">
                       <div className="divider-custom-line"></div>
@@ -174,15 +173,14 @@ function PortfolioList() {
                     </div>
                     <img
                       className="img-fluid rounded mb-5"
-                      src="assets/img/portfolio/cake.png"
+                      src="assets/img/portfolio/bos.jpeg"
                       alt=""
                     />
                     <p className="mb-5">
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                      Mollitia neque assumenda ipsam nihil, molestias magnam,
-                      recusandae quos quis inventore quisquam velit asperiores,
-                      vitae? Reprehenderit soluta, eos quod consequuntur itaque.
-                      Nam.
+                      Dia adalah kaka ku bernama siti afifah army yanti. Kami
+                      hanya dua bersaudara. Lahir di bandung dan juga tinggal
+                      dari kecil di bandung. Meski begitu kami lebih suka
+                      disebut sebagai orang jawa.
                     </p>
                     <a href="/" className="btn btn-primary">
                       Read more
@@ -224,7 +222,7 @@ function PortfolioList() {
                       className="portfolio-modal-title text-secondary text-uppercase mb-0"
                       id="portfolioModal3Label"
                     >
-                      Circus Tent
+                      Penghiburku
                     </h2>
                     <div className="divider-custom">
                       <div className="divider-custom-line"></div>
@@ -235,15 +233,15 @@ function PortfolioList() {
                     </div>
                     <img
                       className="img-fluid rounded mb-5"
-                      src="assets/img/portfolio/circus.png"
+                      src="assets/img/portfolio/Kuu.jpeg"
                       alt=""
                     />
                     <p className="mb-5">
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                      Mollitia neque assumenda ipsam nihil, molestias magnam,
-                      recusandae quos quis inventore quisquam velit asperiores,
-                      vitae? Reprehenderit soluta, eos quod consequuntur itaque.
-                      Nam.
+                      Dia merupakan sosok penghibur, sosok yang mampu membuatku
+                      rindu. Bersamanya semua luka dan rindu bersatu padu
+                      menjadi candu. Meski jarak menjadi sebuah penghalang,
+                      namun tak menjadi alasan untuk saling berpisah. Dialah Nor
+                      Alya, Malaysia punya hihi.
                     </p>
                     <a href="/" className="btn btn-primary">
                       Read more

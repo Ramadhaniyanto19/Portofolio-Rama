@@ -18,7 +18,7 @@ function Footer() {
               <h4 className="text-uppercase mb-4">Around the Web</h4>
               <a
                 className="btn btn-outline-light btn-social mx-1"
-                href="https://www.facebook.com"
+                href="https://www.facebook.com/Ramadhaniyanto1"
               >
                 <i className="fab fa-fw fa-facebook-f"></i>
               </a>
